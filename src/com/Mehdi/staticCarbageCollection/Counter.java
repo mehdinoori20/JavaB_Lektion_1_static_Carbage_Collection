@@ -17,6 +17,6 @@ public class Counter {
      *    - Unchanged memory position
      *    - ONE memory position   only
      *    - ONE reference only
-     *  JavaB_Lektion_1_Static_Getbage    _Collection
+     *  
      * */
 }
